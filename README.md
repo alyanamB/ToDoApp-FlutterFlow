@@ -1,7 +1,9 @@
-# Todo
+# To-Do Application
+## Learning Source
+This project was built while following FlutterFlow tutorials as part of a learning exercise.
+It provided hands-on experience with user authentication, UI design in FlutterFlow, and GitHub project management.
 
-A new Flutter project.
-
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+The goal of this project was to understand:
+- How to build a basic To-Do app in FlutterFlow.
+- User authentication and profile creation.
+- Best practices for organizing and maintaining GitHub respositories.
